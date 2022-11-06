@@ -1,2 +1,3 @@
 hello, good morning 
 welcome to Stargaile 
+we have devops training program going form Nov to Jan batch 
